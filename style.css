@@ -8,7 +8,9 @@
   background-color: #000000;
   color: #ffffff;
 }
-
+.ul{
+    width: 50px; 
+}
 table {
   width: 100%;
   border-collapse: collapse;
